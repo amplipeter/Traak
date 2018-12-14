@@ -1,5 +1,6 @@
-Servers/.git/.metadata/RemoteSystemsTempFiles/.metadata/
-*.pydevproject
+*/Servers/**
+*.gitignore
+*.metadata/*
 *.project
 *.metadata
 */bin/*
