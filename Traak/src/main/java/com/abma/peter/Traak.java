@@ -13,7 +13,7 @@ public class Traak
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello xxcccxxxxxooooooooPeters World!" );
+        System.out.println( "Hello xxcccxxhgggggggxxxooooooooPeters World!" );
         BasicConfigurator.configure();
 		Logger logger = LoggerFactory.getLogger(Traak.class);
 		logger.info("Ongelofelijk dit allemaal !!!!!!");
