@@ -18,7 +18,7 @@ public class Traak
 		Logger logger = LoggerFactory.getLogger(Traak.class);
 		logger.info("Ongelofelijk dit allemaal !!!!!!");
 		 System.out.println( "Hello nog steeds verbaasd" );
-		 logger.error("Ongelofelijk dit allemaal 222222");
+		 logger.error("Ongelofelijk mmmdit allemaal kk222222");
 		 
     }
 }
